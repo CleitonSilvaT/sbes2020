@@ -85,7 +85,10 @@ This webpage containing the data of the empirical research conduct: (i) all syst
 - [Comparative Analysis](files/Analysis.zip) - This link contain the comparative analysis between original and refactored versions
 
 
-
+#### Involved People
+- Cleiton Tavares (http://labsoft.dcc.ufmg.br/doku.php?id=people:students:cleiton_silva)
+- Mariza Bigonha (https://homepages.dcc.ufmg.br/~mariza/)
+- Eduardo Figueiredo (https://homepages.dcc.ufmg.br/~figueiredo/)
 
 #### Publication
 Brazilian Symposium on Software Engineering (SBES)
