@@ -86,9 +86,9 @@ This webpage containing the data of the empirical research conduct: (i) all syst
 
 
 #### Involved People
-- [Cleiton Tavares](http://labsoft.dcc.ufmg.br/doku.php?id=people:students:cleiton_silva) - cleitonsilvatavares@gmail.com | cleiton.silva@dcc.ufmg.br
-- [Mariza Bigonha](https://homepages.dcc.ufmg.br/~mariza/) - mariza@dcc.ufmg.br
-- [Eduardo Figueiredo](https://homepages.dcc.ufmg.br/~figueiredo/) - figueiredo@dcc.ufmg.br
+- [Cleiton Tavares](http://labsoft.dcc.ufmg.br/doku.php?id=people:students:cleiton_silva) | cleitonsilvatavares@gmail.com | cleiton.silva@dcc.ufmg.br
+- [Mariza Bigonha](https://homepages.dcc.ufmg.br/~mariza/) | mariza@dcc.ufmg.br
+- [Eduardo Figueiredo](https://homepages.dcc.ufmg.br/~figueiredo/) | figueiredo@dcc.ufmg.br
 
 #### Publication
 Brazilian Symposium on Software Engineering (SBES)
